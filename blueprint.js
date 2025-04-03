@@ -45,7 +45,6 @@ Divide and conquer
 9. A winner function finds and displays the winner
 
 
-     let humanChoice = parseInt(button.id);
 
 
 
